@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<openerp>
+    <data>
+        <template id="odoo_dynamic_advance_he_ma_templates" name="odoo_dynamic_advance_1702 templates" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" type="text/css" href="/odoo_dynamic_advance_1702/static/src/css/style.css" />
+                <script type="text/javascript" src="/odoo_dynamic_advance_1702/static/src/js/view_list_inherit.js"></script>
+            </xpath>
+        </template>
+    </data>
+</openerp>
